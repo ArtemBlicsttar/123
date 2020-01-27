@@ -1,9 +1,14 @@
 # M-L
 # Change
  
-Вип - Vip
+# M-L
 
-Премиум - Premium
+
+# Change
+
+Вип - vip
+
+Премиум - premium
 
 Креатив - creative
 
@@ -21,7 +26,7 @@
 
 Владелец - Owner
 
-Император - Imperator
+Император - imperator
 --------------------------
 
 Хелпер - helper
@@ -30,4 +35,4 @@
 
 Модератор - moderator
 
-Разработчик - Dev
+Разработчик - prava
